@@ -25,7 +25,8 @@ A scientific calculator built using HTML, CSS, and JavaScript.
 - Web technologies
 
 ## Contact
-- [LinkedIn](PASTE_YOUR_LINKEDIN_PROFILE_URL_HERE)
+- [LinkedIn]
+- https://www.linkedin.com/in/jayden-okoro-7162343a5
 - [GitHub](https://github.com/okorojayden31-ops)
 
 -->
