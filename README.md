@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**okorojayden31-ops/okorojayden31-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jayden Okoro 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software engineering, artificial intelligence, and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I enjoy exploring how technology works, solving problems, and turning ideas into functional applications.
+
+## Interests
+- Software Development
+- Artificial Intelligence
+- Algorithms and Problem Solving
+- Web Development
+
+## Projects
+
+### Jayden Scientific Calculator 6.0
+A scientific calculator built using HTML, CSS, and JavaScript.
+
+- [View Source Code](https://github.com/okorojayden31-ops/scientific-calculator)
+- [Use Live Calculator](https://okorojayden31-ops.github.io/scientific-calculator/)
+
+## Currently Learning
+- Computer Science fundamentals
+- Programming and problem solving
+- Web technologies
+
+## Contact
+- [LinkedIn](PASTE_YOUR_LINKEDIN_PROFILE_URL_HERE)
+- [GitHub](https://github.com/okorojayden31-ops)
+
 -->
